@@ -47,4 +47,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0012-integer-to-roman) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
