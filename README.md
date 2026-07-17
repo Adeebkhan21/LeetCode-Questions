@@ -32,3 +32,19 @@ This repository contains my solutions to LeetCode problems solved as part of my 
 I regularly update this repository with new LeetCode solutions and optimized approaches.
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0012-integer-to-roman) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0012-integer-to-roman) |
+<!---LeetCode Topics End-->
