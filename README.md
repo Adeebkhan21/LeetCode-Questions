@@ -42,6 +42,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 ## String
 |  |
@@ -50,9 +51,14 @@ Happy Coding! 🚀
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0061-rotate-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0061-rotate-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
