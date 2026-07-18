@@ -67,5 +67,14 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0066-plus-one) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
