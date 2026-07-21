@@ -49,6 +49,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0058-length-of-last-word) |
@@ -67,6 +68,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 ## Array
 |  |
@@ -101,4 +103,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
