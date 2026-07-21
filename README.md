@@ -51,6 +51,7 @@ Happy Coding! 🚀
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0058-length-of-last-word) |
 ## Linked List
@@ -107,4 +108,9 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
