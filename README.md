@@ -39,6 +39,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0012-integer-to-roman) |
+| [0389-find-the-difference](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
@@ -55,6 +56,7 @@ Happy Coding! 🚀
 | [0022-generate-parentheses](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0058-length-of-last-word) |
+| [0389-find-the-difference](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -99,6 +101,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0016-3sum-closest) |
+| [0389-find-the-difference](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0389-find-the-difference) |
 ## Design
 |  |
 | ------- |
@@ -137,4 +140,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
