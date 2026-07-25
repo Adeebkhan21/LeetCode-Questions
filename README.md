@@ -131,14 +131,17 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -157,4 +160,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
