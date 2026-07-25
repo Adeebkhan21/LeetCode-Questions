@@ -70,6 +70,7 @@ Happy Coding! 🚀
 | ------- |
 | [0016-3sum-closest](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0061-rotate-list) |
+| [0905-sort-array-by-parity](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 ## Recursion
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Happy Coding! 🚀
 | [0303-range-sum-query-immutable](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0905-sort-array-by-parity](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 ## Matrix
 |  |
 | ------- |
@@ -105,6 +107,7 @@ Happy Coding! 🚀
 | ------- |
 | [0016-3sum-closest](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0389-find-the-difference](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0389-find-the-difference) |
+| [0905-sort-array-by-parity](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 ## Design
 |  |
 | ------- |
