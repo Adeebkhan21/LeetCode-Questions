@@ -49,6 +49,7 @@ Happy Coding! 🚀
 | [0012-integer-to-roman](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0066-plus-one) |
+| [0292-nim-game](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0292-nim-game) |
 ## String
 |  |
 | ------- |
@@ -168,4 +169,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
