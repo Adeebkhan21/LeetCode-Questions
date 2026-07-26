@@ -131,22 +131,26 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
