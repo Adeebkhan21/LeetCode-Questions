@@ -88,6 +88,7 @@ Happy Coding! 🚀
 | [0054-spiral-matrix](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0303-range-sum-query-immutable](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -124,6 +125,7 @@ Happy Coding! 🚀
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
 | ------- |
