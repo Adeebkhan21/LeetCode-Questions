@@ -39,6 +39,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0012-integer-to-roman) |
+| [0217-contains-duplicate](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
@@ -90,6 +91,7 @@ Happy Coding! 🚀
 | [0057-insert-interval](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
@@ -113,6 +115,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0016-3sum-closest) |
+| [0217-contains-duplicate](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 ## Design
