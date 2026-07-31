@@ -55,6 +55,7 @@ Happy Coding! 🚀
 | [0231-power-of-two](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0292-nim-game) |
+| [0509-fibonacci-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
@@ -87,6 +88,7 @@ Happy Coding! 🚀
 | [0010-regular-expression-matching](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -146,6 +148,7 @@ Happy Coding! 🚀
 | [0010-regular-expression-matching](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -219,4 +222,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0169-majority-element) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
