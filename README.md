@@ -58,6 +58,7 @@ Happy Coding! 🚀
 | [0292-nim-game](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1922-count-good-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1922-count-good-numbers) |
 ## String
 |  |
 | ------- |
@@ -91,6 +92,7 @@ Happy Coding! 🚀
 | [0050-powx-n](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
 | ------- |
