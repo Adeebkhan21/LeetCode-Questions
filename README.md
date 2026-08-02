@@ -76,6 +76,7 @@ Happy Coding! 🚀
 | [0024-swap-nodes-in-pairs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0092-reverse-linked-list-ii) |
+| [0203-remove-linked-list-elements](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Happy Coding! 🚀
 | [0010-regular-expression-matching](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1922-count-good-numbers) |
