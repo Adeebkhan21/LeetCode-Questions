@@ -88,6 +88,7 @@ Happy Coding! 🚀
 | ------- |
 | [0016-3sum-closest](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1768-merge-strings-alternately) |
@@ -116,6 +117,7 @@ Happy Coding! 🚀
 | [0057-insert-interval](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0169-majority-element) |
@@ -151,6 +153,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0268-missing-number) |
