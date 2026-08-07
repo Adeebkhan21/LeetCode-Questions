@@ -56,6 +56,7 @@ Happy Coding! 🚀
 | [0043-multiply-strings](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0292-nim-game) |
@@ -175,6 +176,7 @@ Happy Coding! 🚀
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 ## Backtracking
@@ -255,6 +257,7 @@ Happy Coding! 🚀
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
