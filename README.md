@@ -59,6 +59,7 @@ Happy Coding! 🚀
 | [0070-climbing-stairs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0509-fibonacci-number) |
