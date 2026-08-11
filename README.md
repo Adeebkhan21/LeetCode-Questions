@@ -206,6 +206,7 @@ Happy Coding! 🚀
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -213,6 +214,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -221,6 +223,7 @@ Happy Coding! 🚀
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -250,6 +253,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
 ## Brainteaser
 |  |
