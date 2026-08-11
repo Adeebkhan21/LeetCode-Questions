@@ -41,6 +41,7 @@ Happy Coding! 🚀
 | [0012-integer-to-roman](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0217-contains-duplicate) |
+| [0264-ugly-number-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -61,6 +62,7 @@ Happy Coding! 🚀
 | [0096-unique-binary-search-trees](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0509-fibonacci-number) |
@@ -185,6 +187,7 @@ Happy Coding! 🚀
 | [0070-climbing-stairs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 ## Backtracking
@@ -279,4 +282,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0069-sqrtx) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
