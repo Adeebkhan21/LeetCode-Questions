@@ -290,4 +290,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
