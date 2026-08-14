@@ -127,6 +127,7 @@ Happy Coding! 🚀
 | [0039-combination-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
@@ -149,11 +150,13 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0059-spiral-matrix-ii) |
 ## Binary Search
 |  |
 | ------- |
