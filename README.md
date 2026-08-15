@@ -48,6 +48,7 @@ Happy Coding! 🚀
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [1345-jump-game-iv](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1345-jump-game-iv) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3238-find-the-number-of-winning-players](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3238-find-the-number-of-winning-players) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -145,6 +146,7 @@ Happy Coding! 🚀
 | [0717-1-bit-and-2-bit-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
+| [1345-jump-game-iv](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1345-jump-game-iv) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3238-find-the-number-of-winning-players](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3238-find-the-number-of-winning-players) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -281,6 +283,7 @@ Happy Coding! 🚀
 | ------- |
 | [0100-same-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0101-symmetric-tree) |
+| [1345-jump-game-iv](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1345-jump-game-iv) |
 ## Counting
 |  |
 | ------- |
