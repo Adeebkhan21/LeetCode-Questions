@@ -44,6 +44,7 @@ Happy Coding! 🚀
 | [0217-contains-duplicate](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -81,6 +82,7 @@ Happy Coding! 🚀
 | [0043-multiply-strings](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0058-length-of-last-word) |
 | [0097-interleaving-string](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0097-interleaving-string) |
+| [0383-ransom-note](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -288,6 +290,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0383-ransom-note) |
 | [3238-find-the-number-of-winning-players](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3238-find-the-number-of-winning-players) |
 ## Memoization
 |  |
