@@ -49,6 +49,7 @@ Happy Coding! 🚀
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [1345-jump-game-iv](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1345-jump-game-iv) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3238-find-the-number-of-winning-players](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3238-find-the-number-of-winning-players) |
@@ -70,6 +71,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1922-count-good-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1922-count-good-numbers) |
@@ -144,6 +146,7 @@ Happy Coding! 🚀
 | [0303-range-sum-query-immutable](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0724-find-pivot-index) |
@@ -193,6 +196,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
@@ -320,4 +324,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
