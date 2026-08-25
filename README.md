@@ -168,6 +168,7 @@ Happy Coding! 🚀
 | [0905-sort-array-by-parity](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 | [1345-jump-game-iv](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1345-jump-game-iv) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1652-defuse-the-bomb](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1652-defuse-the-bomb) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1732-find-the-highest-altitude) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -302,6 +303,7 @@ Happy Coding! 🚀
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [1652-defuse-the-bomb](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1652-defuse-the-bomb) |
 ## Binary Search Tree
 |  |
 | ------- |
