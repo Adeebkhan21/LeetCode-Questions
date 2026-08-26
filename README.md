@@ -51,6 +51,7 @@ Happy Coding! 🚀
 | [0496-next-greater-element-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
 | [1345-jump-game-iv](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1345-jump-game-iv) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3238-find-the-number-of-winning-players](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3238-find-the-number-of-winning-players) |
@@ -91,6 +92,7 @@ Happy Coding! 🚀
 | [0389-find-the-difference](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1768-merge-strings-alternately](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1768-merge-strings-alternately) |
 | [3794-reverse-string-prefix](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3794-reverse-string-prefix) |
@@ -117,6 +119,7 @@ Happy Coding! 🚀
 | [0392-is-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
+| [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
 | [1768-merge-strings-alternately](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1768-merge-strings-alternately) |
 | [3794-reverse-string-prefix](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3794-reverse-string-prefix) |
 ## Recursion
@@ -166,6 +169,7 @@ Happy Coding! 🚀
 | [0724-find-pivot-index](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
+| [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
 | [1345-jump-game-iv](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1345-jump-game-iv) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1652-defuse-the-bomb](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1652-defuse-the-bomb) |
@@ -209,6 +213,7 @@ Happy Coding! 🚀
 | [0455-assign-cookies](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
+| [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Design
 |  |
@@ -239,6 +244,7 @@ Happy Coding! 🚀
 | [0264-ugly-number-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0509-fibonacci-number) |
+| [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
 ## Backtracking
 |  |
 | ------- |
