@@ -186,6 +186,7 @@ Happy Coding! 🚀
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1732-find-the-highest-altitude) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3238-find-the-number-of-winning-players](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3238-find-the-number-of-winning-players) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
@@ -326,6 +327,7 @@ Happy Coding! 🚀
 | [0713-subarray-product-less-than-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1652-defuse-the-bomb](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1652-defuse-the-bomb) |
 | [1763-longest-nice-substring](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1763-longest-nice-substring) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Binary Search Tree
 |  |
 | ------- |
