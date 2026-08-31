@@ -81,6 +81,7 @@ Happy Coding! 🚀
 | [0779-k-th-symbol-in-grammar](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1922-count-good-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1922-count-good-numbers) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Happy Coding! 🚀
 | [0779-k-th-symbol-in-grammar](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1922-count-good-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1922-count-good-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2094-finding-3-digit-even-numbers) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
@@ -203,6 +205,7 @@ Happy Coding! 🚀
 | [0043-multiply-strings](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0059-spiral-matrix-ii) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -316,6 +319,7 @@ Happy Coding! 🚀
 | [0779-k-th-symbol-in-grammar](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1763-longest-nice-substring](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1763-longest-nice-substring) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
 | ------- |
