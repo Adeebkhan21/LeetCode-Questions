@@ -133,6 +133,7 @@ Happy Coding! 🚀
 | [0977-squares-of-a-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
 | [1768-merge-strings-alternately](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1768-merge-strings-alternately) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [3794-reverse-string-prefix](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3794-reverse-string-prefix) |
 ## Recursion
 |  |
@@ -197,6 +198,7 @@ Happy Coding! 🚀
 | [1732-find-the-highest-altitude](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1854-maximum-population-year) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3238-find-the-number-of-winning-players](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3238-find-the-number-of-winning-players) |
