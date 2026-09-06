@@ -80,6 +80,7 @@ Happy Coding! 🚀
 | [0326-power-of-three](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -183,6 +184,7 @@ Happy Coding! 🚀
 | [0455-assign-cookies](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
@@ -230,6 +232,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0528-random-pick-with-weight](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0528-random-pick-with-weight) |
 | [0713-subarray-product-less-than-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
@@ -261,6 +264,7 @@ Happy Coding! 🚀
 | [0209-minimum-size-subarray-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0724-find-pivot-index) |
@@ -436,4 +440,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2932-maximum-strong-pair-xor-i) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
