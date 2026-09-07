@@ -5,15 +5,15 @@ class Solution {
 public:
     vector<int> findXSum(vector<int>& nums, int k, int x) {
         int n = nums.size();
-        vector<int> ans;
+        vector<int> aa;
 
         for (int i = 0; i <= n - k; i++) {
             vector<int> sub(nums.begin() + i, nums.begin() + i + k);
-            unordered_map<int, int> freq;
+            unordered_map<int, int> f;
             for (int num : sub) {
-                freq[num]++;
+                f[num]++;
             }
-            vector<pair<int, int>> items(freq.begin(), freq.end());
+            vector<pair<int, int>> items(f.begin(), f.end());
             sort(items.begin(), items.end(), [](auto &a, auto &b) {
                 if (a.second == b.second) return a.first > b.first;
                 return a.second > b.second;
@@ -27,9 +27,9 @@ public:
                 if (top_x.count(num)) x_sum += num;
             }
 
-            ans.push_back(x_sum);
+            aa.push_back(x_sum);
         }
 
-        return ans;
+        return aa;
     }
 };
