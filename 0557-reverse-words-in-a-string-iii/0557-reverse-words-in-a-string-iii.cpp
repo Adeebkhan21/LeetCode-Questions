@@ -12,7 +12,7 @@ public:
         }
 
         string result = "";
-        for (const string reversedWord : words) {
+        for (const string& reversedWord : words) {
             result += reversedWord + " ";
         }
         result.pop_back();  
