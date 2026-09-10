@@ -213,6 +213,7 @@ Happy Coding! 🚀
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3028-ant-on-the-boundary](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3028-ant-on-the-boundary) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3206-alternating-groups-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3206-alternating-groups-i) |
 | [3238-find-the-number-of-winning-players](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3238-find-the-number-of-winning-players) |
@@ -229,6 +230,7 @@ Happy Coding! 🚀
 | [0043-multiply-strings](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0059-spiral-matrix-ii) |
+| [3028-ant-on-the-boundary](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3028-ant-on-the-boundary) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
@@ -290,6 +292,7 @@ Happy Coding! 🚀
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1854-maximum-population-year](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1854-maximum-population-year) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3028-ant-on-the-boundary](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3028-ant-on-the-boundary) |
 ## Dynamic Programming
 |  |
 | ------- |
