@@ -206,6 +206,7 @@ Happy Coding! 🚀
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1732-find-the-highest-altitude) |
+| [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1854-maximum-population-year](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1854-maximum-population-year) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -283,6 +284,7 @@ Happy Coding! 🚀
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1732-find-the-highest-altitude) |
+| [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1854-maximum-population-year](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1854-maximum-population-year) |
 ## Dynamic Programming
 |  |
