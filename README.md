@@ -86,6 +86,7 @@ Happy Coding! 🚀
 | [0528-random-pick-with-weight](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0779-k-th-symbol-in-grammar) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1922-count-good-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1922-count-good-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -202,6 +203,7 @@ Happy Coding! 🚀
 | [1004-max-consecutive-ones-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
 | [1345-jump-game-iv](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1345-jump-game-iv) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1652-defuse-the-bomb](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -275,6 +277,7 @@ Happy Coding! 🚀
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -286,6 +289,7 @@ Happy Coding! 🚀
 | [0713-subarray-product-less-than-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -479,4 +483,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
