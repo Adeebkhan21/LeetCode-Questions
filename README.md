@@ -119,6 +119,7 @@ Happy Coding! 🚀
 | [0024-swap-nodes-in-pairs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0092-reverse-linked-list-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
@@ -338,6 +339,7 @@ Happy Coding! 🚀
 | [0099-recover-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0101-symmetric-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 ## Depth-First Search
@@ -358,6 +360,7 @@ Happy Coding! 🚀
 | [0099-recover-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0101-symmetric-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 ## Monotonic Stack
@@ -381,6 +384,7 @@ Happy Coding! 🚀
 ## Divide and Conquer
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0190-reverse-bits) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -408,6 +412,7 @@ Happy Coding! 🚀
 | [0096-unique-binary-search-trees](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 ## Brainteaser
 |  |
