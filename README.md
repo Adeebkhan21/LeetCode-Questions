@@ -63,6 +63,7 @@ Happy Coding! 🚀
 | [3238-find-the-number-of-winning-players](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3238-find-the-number-of-winning-players) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +123,7 @@ Happy Coding! 🚀
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0203-remove-linked-list-elements) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -227,6 +229,7 @@ Happy Coding! 🚀
 | [3238-find-the-number-of-winning-players](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3238-find-the-number-of-winning-players) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -240,6 +243,7 @@ Happy Coding! 🚀
 | [0059-spiral-matrix-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0059-spiral-matrix-ii) |
 | [3028-ant-on-the-boundary](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3028-ant-on-the-boundary) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -454,6 +458,7 @@ Happy Coding! 🚀
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Database
 |  |
 | ------- |
@@ -499,4 +504,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0986-interval-list-intersections) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
