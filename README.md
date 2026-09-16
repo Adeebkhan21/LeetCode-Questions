@@ -115,6 +115,7 @@ Happy Coding! 🚀
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1763-longest-nice-substring](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1768-merge-strings-alternately) |
+| [1813-sentence-similarity-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1813-sentence-similarity-iii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3794-reverse-string-prefix](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3794-reverse-string-prefix) |
 ## Linked List
@@ -153,6 +154,7 @@ Happy Coding! 🚀
 | [0986-interval-list-intersections](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0986-interval-list-intersections) |
 | [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
 | [1768-merge-strings-alternately](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1768-merge-strings-alternately) |
+| [1813-sentence-similarity-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1813-sentence-similarity-iii) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [3794-reverse-string-prefix](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3794-reverse-string-prefix) |
 ## Recursion
@@ -223,6 +225,7 @@ Happy Coding! 🚀
 | [1695-maximum-erasure-value](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1732-find-the-highest-altitude) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
+| [1813-sentence-similarity-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1813-sentence-similarity-iii) |
 | [1854-maximum-population-year](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1854-maximum-population-year) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
