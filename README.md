@@ -121,6 +121,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0092-reverse-linked-list-ii) |
@@ -134,6 +135,7 @@ Happy Coding! 🚀
 | [0011-container-with-most-water](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
