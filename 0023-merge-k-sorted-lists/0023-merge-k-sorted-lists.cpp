@@ -1,22 +1,22 @@
 class Solution {
 public:
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if (lists.empty()) {
+    ListNode* mergeKLists(vector<ListNode*>& li) {
+        if (li.empty()) {
             return nullptr;
         }
-        return mergeKListsHelper(lists, 0, lists.size() - 1);
+        return mergeKListsHelper(li, 0, li.size() - 1);
     }
     
-    ListNode* mergeKListsHelper(vector<ListNode*>& lists, int start, int end) {
+    ListNode* mergeKListsHelper(vector<ListNode*>& li, int start, int end) {
         if (start == end) {
-            return lists[end];
+            return li[start];
         }
         if (start + 1 == end) {
-            return merge(lists[start], lists[end]);
+            return merge(li[start], li[end]);
         }
         int mid = start + (end - start) / 2;
-        ListNode* left = mergeKListsHelper(lists, start, mid);
-        ListNode* right = mergeKListsHelper(lists, mid + 1, end);
+        ListNode* left = mergeKListsHelper(li, start, mid);
+        ListNode* right = mergeKListsHelper(li, mid + 1, end);
         return merge(left, right);
     }
     
