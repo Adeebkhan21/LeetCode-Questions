@@ -41,6 +41,7 @@ Happy Coding! 🚀
 | [0012-integer-to-roman](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
@@ -131,6 +132,7 @@ Happy Coding! 🚀
 | [0092-reverse-linked-list-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0203-remove-linked-list-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
@@ -143,6 +145,7 @@ Happy Coding! 🚀
 | [0061-rotate-list](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0344-reverse-string) |
