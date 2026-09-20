@@ -43,6 +43,7 @@ Happy Coding! 🚀
 | [0141-linked-list-cycle](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
@@ -105,6 +106,7 @@ Happy Coding! 🚀
 | [0043-multiply-strings](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0058-length-of-last-word) |
 | [0097-interleaving-string](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0097-interleaving-string) |
+| [0187-repeated-dna-sequences](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0383-ransom-note) |
@@ -403,6 +405,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0089-gray-code) |
+| [0187-repeated-dna-sequences](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0268-missing-number) |
@@ -425,6 +428,7 @@ Happy Coding! 🚀
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
@@ -561,4 +565,20 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
