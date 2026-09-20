@@ -123,6 +123,7 @@ Happy Coding! 🚀
 | [1813-sentence-similarity-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1813-sentence-similarity-iii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3794-reverse-string-prefix](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3794-reverse-string-prefix) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -446,6 +447,7 @@ Happy Coding! 🚀
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3206-alternating-groups-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3206-alternating-groups-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -488,6 +490,7 @@ Happy Coding! 🚀
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Newton's Method
 |  |
 | ------- |
