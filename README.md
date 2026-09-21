@@ -96,6 +96,7 @@ Happy Coding! 🚀
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1922-count-good-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1922-count-good-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3524-find-x-value-of-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3524-find-x-value-of-array-i) |
 ## String
 |  |
 | ------- |
@@ -254,6 +255,7 @@ Happy Coding! 🚀
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3524-find-x-value-of-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3524-find-x-value-of-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -349,6 +351,7 @@ Happy Coding! 🚀
 | [0392-is-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
+| [3524-find-x-value-of-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3524-find-x-value-of-array-i) |
 ## Backtracking
 |  |
 | ------- |
