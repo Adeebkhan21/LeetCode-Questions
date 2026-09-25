@@ -199,6 +199,7 @@ Happy Coding! 🚀
 | [0018-4sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0057-insert-interval) |
@@ -366,6 +367,7 @@ Happy Coding! 🚀
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
 | [0089-gray-code](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0089-gray-code) |
 ## Stack
 |  |
