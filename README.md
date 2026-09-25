@@ -242,6 +242,7 @@ Happy Coding! 🚀
 | [1345-jump-game-iv](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1345-jump-game-iv) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -316,6 +317,7 @@ Happy Coding! 🚀
 | [0969-pancake-sorting](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Design
@@ -521,6 +523,7 @@ Happy Coding! 🚀
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Database
