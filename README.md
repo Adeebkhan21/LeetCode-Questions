@@ -252,6 +252,7 @@ Happy Coding! 🚀
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1813-sentence-similarity-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1813-sentence-similarity-iii) |
 | [1854-maximum-population-year](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1854-maximum-population-year) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -319,6 +320,7 @@ Happy Coding! 🚀
 | [0977-squares-of-a-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Design
@@ -466,6 +468,7 @@ Happy Coding! 🚀
 | [1695-maximum-erasure-value](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1695-maximum-erasure-value) |
 | [1763-longest-nice-substring](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
