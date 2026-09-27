@@ -69,6 +69,7 @@ Happy Coding! 🚀
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Happy Coding! 🚀
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3524-find-x-value-of-array-i) |
+| [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
 ## String
 |  |
 | ------- |
@@ -266,6 +268,7 @@ Happy Coding! 🚀
 | [3483-unique-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3524-find-x-value-of-array-i) |
+| [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
 ## Matrix
 |  |
 | ------- |
@@ -474,6 +477,7 @@ Happy Coding! 🚀
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3206-alternating-groups-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3206-alternating-groups-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Binary Search Tree
 |  |
@@ -619,4 +623,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0200-number-of-islands) |
+## Number Theory
+|  |
+| ------- |
+| [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
 <!---LeetCode Topics End-->
