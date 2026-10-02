@@ -120,6 +120,7 @@ Happy Coding! 🚀
 | [0344-reverse-string](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0383-ransom-note) |
+| [0385-mini-parser](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0385-mini-parser) |
 | [0389-find-the-difference](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -405,6 +406,7 @@ Happy Coding! 🚀
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
+| [0385-mini-parser](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0385-mini-parser) |
 | [0445-add-two-numbers-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
@@ -432,6 +434,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0200-number-of-islands) |
+| [0385-mini-parser](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0385-mini-parser) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
