@@ -59,6 +59,7 @@ Happy Coding! 🚀
 | [0523-continuous-subarray-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0888-fair-candy-swap](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
 | [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
 | [1345-jump-game-iv](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1345-jump-game-iv) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -249,6 +250,7 @@ Happy Coding! 🚀
 | [0717-1-bit-and-2-bit-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -316,6 +318,7 @@ Happy Coding! 🚀
 | [0528-random-pick-with-weight](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0528-random-pick-with-weight) |
 | [0713-subarray-product-less-than-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -336,6 +339,7 @@ Happy Coding! 🚀
 | [0389-find-the-difference](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0888-fair-candy-swap](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
