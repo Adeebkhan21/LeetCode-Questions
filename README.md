@@ -91,6 +91,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0326-power-of-three) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0447-number-of-boomerangs) |
 | [0509-fibonacci-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0509-fibonacci-number) |
@@ -124,6 +125,7 @@ Happy Coding! 🚀
 | [0389-find-the-difference](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1208-get-equal-substrings-within-budget) |
@@ -464,6 +466,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1763-longest-nice-substring](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1763-longest-nice-substring) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2932-maximum-strong-pair-xor-i) |
