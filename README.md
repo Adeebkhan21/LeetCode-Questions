@@ -251,6 +251,7 @@ Happy Coding! 🚀
 | [0628-maximum-product-of-three-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0682-baseball-game](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -308,6 +309,7 @@ Happy Coding! 🚀
 | [0054-spiral-matrix](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [3028-ant-on-the-boundary](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3028-ant-on-the-boundary) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -428,6 +430,7 @@ Happy Coding! 🚀
 | [0445-add-two-numbers-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Tree
 |  |
