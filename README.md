@@ -256,6 +256,7 @@ Happy Coding! 🚀
 | [0713-subarray-product-less-than-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0729-my-calendar-i) |
 | [0875-koko-eating-bananas](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
@@ -329,6 +330,7 @@ Happy Coding! 🚀
 | [0528-random-pick-with-weight](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0528-random-pick-with-weight) |
 | [0704-binary-search](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [0729-my-calendar-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0729-my-calendar-i) |
 | [0875-koko-eating-bananas](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
@@ -367,6 +369,7 @@ Happy Coding! 🚀
 | [0173-binary-search-tree-iterator](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0729-my-calendar-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0729-my-calendar-i) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Prefix Sum
 |  |
@@ -646,6 +649,7 @@ Happy Coding! 🚀
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
 | [0456-132-pattern](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0456-132-pattern) |
+| [0729-my-calendar-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0729-my-calendar-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
 |  |
@@ -684,4 +688,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
