@@ -428,6 +428,7 @@ Happy Coding! 🚀
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
@@ -449,6 +450,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -461,6 +463,7 @@ Happy Coding! 🚀
 | [0100-same-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0385-mini-parser](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0385-mini-parser) |
 | [0543-diameter-of-binary-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
@@ -478,6 +481,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
