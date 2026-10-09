@@ -450,6 +450,7 @@ Happy Coding! 🚀
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
+| [0543-diameter-of-binary-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
@@ -462,6 +463,7 @@ Happy Coding! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0385-mini-parser](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0385-mini-parser) |
+| [0543-diameter-of-binary-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0733-flood-fill) |
 ## Binary Tree
@@ -477,6 +479,7 @@ Happy Coding! 🚀
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
+| [0543-diameter-of-binary-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Monotonic Stack
 |  |
@@ -696,4 +699,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0729-my-calendar-i) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
