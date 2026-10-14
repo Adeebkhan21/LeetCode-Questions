@@ -5,7 +5,7 @@ public:
     ListNode* reverseList(ListNode* head) {
         if(!head)
             return head;
-        ListNode* prev = head;
+        ListNode* prev = NULL;
         while(head) {
             ListNode* temp = head -> next;
             head -> next = prev;
