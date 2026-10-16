@@ -230,6 +230,7 @@ Happy Coding! 🚀
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -419,6 +420,7 @@ Happy Coding! 🚀
 | [0096-unique-binary-search-trees](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0198-house-robber) |
