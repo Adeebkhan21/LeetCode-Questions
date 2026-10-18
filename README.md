@@ -262,6 +262,7 @@ Happy Coding! 🚀
 | [0523-continuous-subarray-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
@@ -371,6 +372,7 @@ Happy Coding! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
@@ -652,6 +654,7 @@ Happy Coding! 🚀
 | [0011-container-with-most-water](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0670-maximum-swap](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0670-maximum-swap) |
 | [0969-pancake-sorting](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0969-pancake-sorting) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -743,4 +746,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
