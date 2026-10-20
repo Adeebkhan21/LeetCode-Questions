@@ -282,6 +282,7 @@ Happy Coding! 🚀
 | [0977-squares-of-a-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
 | [1345-jump-game-iv](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1345-jump-game-iv) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
@@ -379,6 +380,7 @@ Happy Coding! 🚀
 | [0905-sort-array-by-parity](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -659,6 +661,7 @@ Happy Coding! 🚀
 | [0561-array-partition](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0670-maximum-swap](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0670-maximum-swap) |
 | [0969-pancake-sorting](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0969-pancake-sorting) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Quicksort
