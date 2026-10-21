@@ -255,6 +255,7 @@ Happy Coding! 🚀
 | [0304-range-sum-query-2d-immutable](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0336-palindrome-pairs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0403-frog-jump](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0403-frog-jump) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -442,6 +443,7 @@ Happy Coding! 🚀
 | [0264-ugly-number-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0403-frog-jump) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0509-fibonacci-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
