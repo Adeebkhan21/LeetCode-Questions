@@ -248,6 +248,7 @@ Happy Coding! 🚀
 | [0240-search-a-2d-matrix-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
@@ -394,6 +395,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0729-my-calendar-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0729-my-calendar-i) |
@@ -685,6 +687,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0284-peeking-iterator) |
 ## Data Stream
 |  |
 | ------- |
