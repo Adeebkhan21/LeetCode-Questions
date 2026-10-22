@@ -132,6 +132,7 @@ Happy Coding! 🚀
 | [0392-is-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0472-concatenated-words](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0472-concatenated-words) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1208-get-equal-substrings-within-budget) |
@@ -261,6 +262,7 @@ Happy Coding! 🚀
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0456-132-pattern) |
+| [0472-concatenated-words](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0472-concatenated-words) |
 | [0496-next-greater-element-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0528-random-pick-with-weight) |
@@ -378,6 +380,7 @@ Happy Coding! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [0472-concatenated-words](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0472-concatenated-words) |
 | [0561-array-partition](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
@@ -445,6 +448,7 @@ Happy Coding! 🚀
 | [0392-is-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0403-frog-jump) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0472-concatenated-words](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0472-concatenated-words) |
 | [0509-fibonacci-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
 | [3524-find-x-value-of-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3524-find-x-value-of-array-i) |
@@ -504,6 +508,7 @@ Happy Coding! 🚀
 | [0200-number-of-islands](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0385-mini-parser](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0385-mini-parser) |
 | [0404-sum-of-left-leaves](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0404-sum-of-left-leaves) |
+| [0472-concatenated-words](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0733-flood-fill) |
@@ -680,6 +685,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0336-palindrome-pairs) |
+| [0472-concatenated-words](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0472-concatenated-words) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Randomized
 |  |
