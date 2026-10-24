@@ -89,6 +89,7 @@ Happy Coding! 🚀
 | [0089-gray-code](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
@@ -180,6 +181,7 @@ Happy Coding! 🚀
 | [0141-linked-list-cycle](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
@@ -240,6 +242,7 @@ Happy Coding! 🚀
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
