@@ -260,6 +260,7 @@ Happy Coding! 🚀
 | [0304-range-sum-query-2d-immutable](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0336-palindrome-pairs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0403-frog-jump](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0403-frog-jump) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0447-number-of-boomerangs) |
@@ -332,6 +333,7 @@ Happy Coding! 🚀
 | [0200-number-of-islands](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0566-reshape-the-matrix](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0566-reshape-the-matrix) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0733-flood-fill](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0733-flood-fill) |
@@ -360,6 +362,7 @@ Happy Coding! 🚀
 | [0287-find-the-duplicate-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [0528-random-pick-with-weight](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0528-random-pick-with-weight) |
 | [0704-binary-search](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0704-binary-search) |
@@ -417,6 +420,7 @@ Happy Coding! 🚀
 | [0209-minimum-size-subarray-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0523-continuous-subarray-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -720,6 +724,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [0729-my-calendar-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0729-my-calendar-i) |
 | [2363-merge-similar-items](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2363-merge-similar-items) |
