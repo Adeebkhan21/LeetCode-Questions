@@ -276,6 +276,7 @@ Happy Coding! 🚀
 | [0496-next-greater-element-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0528-random-pick-with-weight) |
+| [0546-remove-boxes](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0566-reshape-the-matrix) |
@@ -468,6 +469,7 @@ Happy Coding! 🚀
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0472-concatenated-words](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0472-concatenated-words) |
 | [0509-fibonacci-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0509-fibonacci-number) |
+| [0546-remove-boxes](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0546-remove-boxes) |
 | [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
 | [3524-find-x-value-of-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3524-find-x-value-of-array-i) |
 ## Backtracking
@@ -648,6 +650,7 @@ Happy Coding! 🚀
 | ------- |
 | [0070-climbing-stairs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0509-fibonacci-number) |
+| [0546-remove-boxes](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0546-remove-boxes) |
 ## Enumeration
 |  |
 | ------- |
