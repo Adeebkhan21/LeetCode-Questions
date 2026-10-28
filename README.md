@@ -254,6 +254,7 @@ Happy Coding! 🚀
 | [0217-contains-duplicate](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0283-move-zeroes) |
@@ -593,6 +594,7 @@ Happy Coding! 🚀
 | [0209-minimum-size-subarray-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
@@ -670,6 +672,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -797,4 +800,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0561-array-partition) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
