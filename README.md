@@ -42,6 +42,7 @@ Happy Coding! 🚀
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0187-repeated-dna-sequences) |
@@ -90,6 +91,7 @@ Happy Coding! 🚀
 | [0070-climbing-stairs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0231-power-of-two) |
@@ -243,6 +245,7 @@ Happy Coding! 🚀
 | [0119-pascals-triangle-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0149-max-points-on-a-line](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0169-majority-element) |
@@ -812,4 +815,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
