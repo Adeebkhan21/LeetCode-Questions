@@ -276,6 +276,7 @@ Happy Coding! 🚀
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0368-largest-divisible-subset](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0403-frog-jump) |
+| [0436-find-right-interval](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0447-number-of-boomerangs) |
@@ -381,6 +382,7 @@ Happy Coding! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0436-find-right-interval](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [0528-random-pick-with-weight](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0528-random-pick-with-weight) |
 | [0704-binary-search](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0704-binary-search) |
@@ -409,6 +411,7 @@ Happy Coding! 🚀
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0389-find-the-difference) |
+| [0436-find-right-interval](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0455-assign-cookies) |
