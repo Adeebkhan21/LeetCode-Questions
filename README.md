@@ -100,6 +100,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0326-power-of-three) |
+| [0335-self-crossing](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0335-self-crossing) |
 | [0368-largest-divisible-subset](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0445-add-two-numbers-ii) |
@@ -270,6 +271,7 @@ Happy Coding! 🚀
 | [0300-longest-increasing-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0335-self-crossing](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -829,6 +831,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
+| [0335-self-crossing](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0335-self-crossing) |
 ## Euclidean Algorithm
 |  |
 | ------- |
