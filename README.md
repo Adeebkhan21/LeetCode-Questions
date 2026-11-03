@@ -52,6 +52,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0290-word-pattern) |
 | [0336-palindrome-pairs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0336-palindrome-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0383-ransom-note) |
@@ -274,6 +275,7 @@ Happy Coding! 🚀
 | [0304-range-sum-query-2d-immutable](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0335-self-crossing](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0336-palindrome-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -410,6 +412,7 @@ Happy Coding! 🚀
 | [0217-contains-duplicate](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
@@ -600,6 +603,7 @@ Happy Coding! 🚀
 | [0169-majority-element](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
@@ -663,6 +667,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0383-ransom-note) |
 | [1854-maximum-population-year](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1854-maximum-population-year) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -689,6 +694,7 @@ Happy Coding! 🚀
 | [0023-merge-k-sorted-lists](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -775,6 +781,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -841,4 +848,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
