@@ -309,6 +309,7 @@ Happy Coding! 🚀
 | [0724-find-pivot-index](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0733-flood-fill) |
+| [0850-rectangle-area-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0850-rectangle-area-ii) |
 | [0875-koko-eating-bananas](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
@@ -757,6 +758,7 @@ Happy Coding! 🚀
 ## Sweep Line
 |  |
 | ------- |
+| [0850-rectangle-area-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0850-rectangle-area-ii) |
 | [0986-interval-list-intersections](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0986-interval-list-intersections) |
 ## Doubly-Linked List
 |  |
@@ -769,6 +771,7 @@ Happy Coding! 🚀
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [0729-my-calendar-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0729-my-calendar-i) |
+| [0850-rectangle-area-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0850-rectangle-area-ii) |
 | [2363-merge-similar-items](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2363-merge-similar-items) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
@@ -813,6 +816,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0729-my-calendar-i) |
+| [0850-rectangle-area-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0850-rectangle-area-ii) |
 ## DP on Trees
 |  |
 | ------- |
