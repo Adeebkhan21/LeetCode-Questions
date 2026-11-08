@@ -55,6 +55,7 @@ Happy Coding! 🚀
 | [0347-top-k-frequent-elements](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -103,6 +104,7 @@ Happy Coding! 🚀
 | [0326-power-of-three](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0335-self-crossing) |
 | [0368-largest-divisible-subset](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0447-number-of-boomerangs) |
@@ -281,6 +283,7 @@ Happy Coding! 🚀
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0368-largest-divisible-subset](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0403-frog-jump) |
 | [0436-find-right-interval](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -445,6 +448,7 @@ Happy Coding! 🚀
 | [0284-peeking-iterator](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0729-my-calendar-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0729-my-calendar-i) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Prefix Sum
@@ -745,6 +749,7 @@ Happy Coding! 🚀
 ## Randomized
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0528-random-pick-with-weight](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0528-random-pick-with-weight) |
 ## Iterator
 |  |
