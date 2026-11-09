@@ -276,6 +276,7 @@ Happy Coding! 🚀
 | [0300-longest-increasing-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0327-count-of-range-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0327-count-of-range-sum) |
 | [0335-self-crossing](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -390,6 +391,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0327-count-of-range-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -611,6 +613,7 @@ Happy Coding! 🚀
 | [0169-majority-element](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0327-count-of-range-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1763-longest-nice-substring) |
@@ -775,6 +778,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
+| [0327-count-of-range-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0327-count-of-range-sum) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [0729-my-calendar-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0729-my-calendar-i) |
@@ -785,6 +789,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0327-count-of-range-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0327-count-of-range-sum) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -822,6 +827,7 @@ Happy Coding! 🚀
 ## Segment Tree
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0327-count-of-range-sum) |
 | [0729-my-calendar-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0729-my-calendar-i) |
 | [0850-rectangle-area-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0850-rectangle-area-ii) |
 ## DP on Trees
@@ -865,4 +871,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0327-count-of-range-sum) |
+## Treap
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
