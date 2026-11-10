@@ -48,6 +48,7 @@ Happy Coding! 🚀
 | [0187-repeated-dna-sequences](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0290-word-pattern) |
@@ -266,6 +267,7 @@ Happy Coding! 🚀
 | [0219-contains-duplicate-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
 | [0228-summary-ranges](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -419,6 +421,7 @@ Happy Coding! 🚀
 | [0179-largest-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -678,6 +681,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0383-ransom-note) |
 | [1854-maximum-population-year](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1854-maximum-population-year) |
@@ -879,4 +883,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0327-count-of-range-sum) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
