@@ -289,6 +289,7 @@ Happy Coding! 🚀
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0403-frog-jump) |
+| [0427-construct-quad-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0427-construct-quad-tree) |
 | [0436-find-right-interval](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -365,6 +366,7 @@ Happy Coding! 🚀
 | [0240-search-a-2d-matrix-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0427-construct-quad-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0427-construct-quad-tree) |
 | [0566-reshape-the-matrix](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0566-reshape-the-matrix) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0733-flood-fill](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0733-flood-fill) |
@@ -550,6 +552,7 @@ Happy Coding! 🚀
 | [0145-binary-tree-postorder-traversal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0404-sum-of-left-leaves) |
+| [0427-construct-quad-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0427-construct-quad-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
@@ -619,6 +622,7 @@ Happy Coding! 🚀
 | [0327-count-of-range-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0427-construct-quad-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0427-construct-quad-tree) |
 | [1763-longest-nice-substring](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
 |  |
