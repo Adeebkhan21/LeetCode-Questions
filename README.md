@@ -326,6 +326,7 @@ Happy Coding! 🚀
 | [0986-interval-list-intersections](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
 | [1345-jump-game-iv](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1345-jump-game-iv) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
@@ -746,6 +747,7 @@ Happy Coding! 🚀
 | [0670-maximum-swap](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0670-maximum-swap) |
 | [0969-pancake-sorting](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0969-pancake-sorting) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Quicksort
