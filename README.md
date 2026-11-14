@@ -81,6 +81,7 @@ Happy Coding! 🚀
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
 ## Math
 |  |
@@ -357,6 +358,7 @@ Happy Coding! 🚀
 | [3483-unique-3-digit-even-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3524-find-x-value-of-array-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
 ## Matrix
 |  |
@@ -487,6 +489,7 @@ Happy Coding! 🚀
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3028-ant-on-the-boundary](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3028-ant-on-the-boundary) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -625,6 +628,7 @@ Happy Coding! 🚀
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0427-construct-quad-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0427-construct-quad-tree) |
 | [1763-longest-nice-substring](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1763-longest-nice-substring) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -800,6 +804,7 @@ Happy Coding! 🚀
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0327-count-of-range-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0327-count-of-range-sum) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -840,6 +845,7 @@ Happy Coding! 🚀
 | [0327-count-of-range-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0327-count-of-range-sum) |
 | [0729-my-calendar-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0729-my-calendar-i) |
 | [0850-rectangle-area-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0850-rectangle-area-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## DP on Trees
 |  |
 | ------- |
