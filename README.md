@@ -178,6 +178,7 @@ Happy Coding! 🚀
 | [0445-add-two-numbers-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2074-reverse-nodes-in-even-length-groups) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -385,6 +386,7 @@ Happy Coding! 🚀
 | [0059-spiral-matrix-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0682-baseball-game) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3028-ant-on-the-boundary](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3028-ant-on-the-boundary) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
