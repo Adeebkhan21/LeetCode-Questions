@@ -210,6 +210,7 @@ Happy Coding! 🚀
 | [0455-assign-cookies](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0825-friends-of-appropriate-ages](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0825-friends-of-appropriate-ages) |
 | [0876-middle-of-the-linked-list](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0969-pancake-sorting) |
@@ -325,6 +326,7 @@ Happy Coding! 🚀
 | [0724-find-pivot-index](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0733-flood-fill) |
+| [0825-friends-of-appropriate-ages](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0825-friends-of-appropriate-ages) |
 | [0850-rectangle-area-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0850-rectangle-area-ii) |
 | [0875-koko-eating-bananas](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
@@ -416,6 +418,7 @@ Happy Coding! 🚀
 | [0704-binary-search](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0729-my-calendar-i) |
+| [0825-friends-of-appropriate-ages](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0825-friends-of-appropriate-ages) |
 | [0875-koko-eating-bananas](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
@@ -448,6 +451,7 @@ Happy Coding! 🚀
 | [0472-concatenated-words](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0472-concatenated-words) |
 | [0561-array-partition](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0825-friends-of-appropriate-ages](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0825-friends-of-appropriate-ages) |
 | [0888-fair-candy-swap](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0969-pancake-sorting) |
