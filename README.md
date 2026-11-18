@@ -145,6 +145,7 @@ Happy Coding! 🚀
 | [0389-find-the-difference](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0472-concatenated-words](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0472-concatenated-words) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -549,6 +550,7 @@ Happy Coding! 🚀
 | [0173-binary-search-tree-iterator](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0385-mini-parser](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0385-mini-parser) |
+| [0402-remove-k-digits](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
@@ -612,6 +614,7 @@ Happy Coding! 🚀
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -761,6 +764,7 @@ Happy Coding! 🚀
 | [0011-container-with-most-water](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0561-array-partition) |
