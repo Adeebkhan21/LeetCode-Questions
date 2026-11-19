@@ -300,6 +300,7 @@ Happy Coding! 🚀
 | [0380-insert-delete-getrandom-o1](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0403-frog-jump) |
 | [0427-construct-quad-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0427-construct-quad-tree) |
+| [0435-non-overlapping-intervals](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -445,6 +446,7 @@ Happy Coding! 🚀
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -523,6 +525,7 @@ Happy Coding! 🚀
 | [0368-largest-divisible-subset](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0403-frog-jump) |
+| [0435-non-overlapping-intervals](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0472-concatenated-words](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0472-concatenated-words) |
 | [0509-fibonacci-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0509-fibonacci-number) |
@@ -765,6 +768,7 @@ Happy Coding! 🚀
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0561-array-partition) |
