@@ -68,6 +68,7 @@ Happy Coding! 🚀
 | [0560-subarray-sum-equals-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0888-fair-candy-swap](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
+| [0924-minimize-malware-spread](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0924-minimize-malware-spread) |
 | [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
 | [1345-jump-game-iv](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1345-jump-game-iv) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -334,6 +335,7 @@ Happy Coding! 🚀
 | [0875-koko-eating-bananas](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
+| [0924-minimize-malware-spread](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0924-minimize-malware-spread) |
 | [0969-pancake-sorting](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0986-interval-list-intersections) |
@@ -600,6 +602,7 @@ Happy Coding! 🚀
 | [0543-diameter-of-binary-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0733-flood-fill) |
+| [0924-minimize-malware-spread](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0924-minimize-malware-spread) |
 ## Binary Tree
 |  |
 | ------- |
@@ -712,6 +715,7 @@ Happy Coding! 🚀
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0733-flood-fill](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0733-flood-fill) |
+| [0924-minimize-malware-spread](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0924-minimize-malware-spread) |
 | [1345-jump-game-iv](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1345-jump-game-iv) |
 ## Counting
 |  |
@@ -865,6 +869,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0200-number-of-islands) |
+| [0924-minimize-malware-spread](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0924-minimize-malware-spread) |
 ## Number Theory
 |  |
 | ------- |
@@ -933,6 +938,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0924-minimize-malware-spread](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0924-minimize-malware-spread) |
 ## Topological Sort
 |  |
 | ------- |
