@@ -67,6 +67,7 @@ Happy Coding! 🚀
 | [0523-continuous-subarray-sum](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0763-partition-labels](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0763-partition-labels) |
 | [0888-fair-candy-swap](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
 | [0924-minimize-malware-spread](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0924-minimize-malware-spread) |
 | [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
@@ -150,6 +151,7 @@ Happy Coding! 🚀
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0472-concatenated-words](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0472-concatenated-words) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0763-partition-labels](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0763-partition-labels) |
 | [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
@@ -212,6 +214,7 @@ Happy Coding! 🚀
 | [0455-assign-cookies](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0763-partition-labels](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0763-partition-labels) |
 | [0825-friends-of-appropriate-ages](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0825-friends-of-appropriate-ages) |
 | [0876-middle-of-the-linked-list](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
@@ -783,6 +786,7 @@ Happy Coding! 🚀
 | [0455-assign-cookies](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0670-maximum-swap](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0670-maximum-swap) |
+| [0763-partition-labels](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0763-partition-labels) |
 | [0969-pancake-sorting](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0969-pancake-sorting) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1007-minimum-domino-rotations-for-equal-row) |
