@@ -68,6 +68,7 @@ Happy Coding! 🚀
 | [0560-subarray-sum-equals-k](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0763-partition-labels) |
+| [0771-jewels-and-stones](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
 | [0924-minimize-malware-spread](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0924-minimize-malware-spread) |
 | [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
@@ -152,6 +153,7 @@ Happy Coding! 🚀
 | [0472-concatenated-words](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0472-concatenated-words) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0763-partition-labels](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0763-partition-labels) |
+| [0771-jewels-and-stones](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0771-jewels-and-stones) |
 | [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
