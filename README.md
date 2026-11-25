@@ -152,6 +152,7 @@ Happy Coding! 🚀
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0472-concatenated-words](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0472-concatenated-words) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0761-special-binary-string](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0771-jewels-and-stones) |
 | [1048-longest-string-chain](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1048-longest-string-chain) |
@@ -463,6 +464,7 @@ Happy Coding! 🚀
 | [0472-concatenated-words](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0472-concatenated-words) |
 | [0561-array-partition](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0761-special-binary-string](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0761-special-binary-string) |
 | [0825-friends-of-appropriate-ages](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0825-friends-of-appropriate-ages) |
 | [0888-fair-candy-swap](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
@@ -661,6 +663,7 @@ Happy Coding! 🚀
 | [0347-top-k-frequent-elements](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0427-construct-quad-tree](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0427-construct-quad-tree) |
+| [0761-special-binary-string](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/0761-special-binary-string) |
 | [1763-longest-nice-substring](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/1763-longest-nice-substring) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Adeebkhan21/LeetCode-Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sliding Window
